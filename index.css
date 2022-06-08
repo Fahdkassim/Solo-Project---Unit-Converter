@@ -1,0 +1,103 @@
+.header{
+    position:relative;
+    width: auto;
+    height: 260px;
+    background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+    }
+    
+    
+    p{
+    
+    position: relative;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 97.5723px;
+    text-align: center;
+    color: black;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+    }
+    
+    
+    h1 {
+        position: relative;
+        text-align: center;
+        padding-top: 53px;
+        padding-bottom: 20px;
+        color: aliceblue;
+        height: 38px;
+        font-family:'Courier New', Courier, monospace;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 22px;
+        line-height: 38px;
+        letter-spacing: -0.05em;
+        color: #FFFFFF;
+        margin-bottom: auto;
+        margin-top: auto;
+    }
+    #title-1{
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        text-align:center;
+        color: black;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-top: 60px;
+        font-weight: 600;
+        font-size: 14px;
+        
+        
+    }
+    #length-result{
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        text-align:center;
+        color: #4E4E4E;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-top: 30px;
+        font-weight: 400;
+        font-size: 14px;
+    }
+        #volume-result{
+            position: relative;
+            font-family: 'Courier New', Courier, monospace;
+            text-align:center;
+            color: #4E4E4E;
+            margin-top: auto;
+            margin-bottom: auto;
+            padding-top: 30px;
+            font-weight: 400;
+            font-size: 14px;
+    }
+    #mass-result{
+        position: relative;
+        font-family: 'Courier New', Courier, monospace;
+        text-align:center;
+        color: #4E4E4E;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding-top: 40px;
+        padding-bottom: 20px;
+        font-weight: 400;
+        font-size: 14px;
+    }
+    
+    #convert-btn{
+        position: relative;
+        align-content: center;
+        width: 100px;
+        height: 35px;
+        margin-left: 2px;
+        color:#FB3796;
+        background-color: black;
+        border-radius: 20px;
+        border-color: #FFFFFF;
+        font-weight: bold;
+    }
+    #input{
+        margin-left: 5px;
+    }
